@@ -8,4 +8,4 @@ System.register([], function (_export, _context) {
     execute: function () {}
   };
 });
-//# sourceMappingURL=datex.js.map
+//# sourceMappingURL=fetch.js.map
